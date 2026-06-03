@@ -20,7 +20,7 @@ The full pipeline includes:
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | HitRate@10 | Precision@10 | MRR@10 | NDCG@10 |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ amazon-electronics-recommender/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Tools |
 |---|---|
