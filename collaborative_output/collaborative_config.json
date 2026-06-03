@@ -1,0 +1,6 @@
+{
+  "global_mean": 4.293457043935508,
+  "embedding_dim": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001
+}
